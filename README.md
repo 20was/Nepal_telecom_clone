@@ -1,4 +1,4 @@
-# Nepal Telecom App design
+# Nepal Telecom App design idea
 
 ## Screenshots
 ![Sample 1](/images/screenshot/snap1.png?raw=true "Snapshot 1")
